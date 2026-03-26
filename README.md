@@ -11,6 +11,12 @@ This project showcases personal information, skills, projects, and contact detai
 
 ---
 
+## 📸 Preview
+
+[![Portfolio Preview](assets/images/portfolio-preview.png)](https://nehal-nizam-portfolio.netlify.app/)
+
+---
+
 ## 📁 GitHub Repository
 
 🔗 https://github.com/nizamnehal21/my-portfolio.git
